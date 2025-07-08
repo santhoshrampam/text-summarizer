@@ -7,7 +7,7 @@ This is a Python-based GenAI project that summarizes long articles or paragraphs
 ## 👤 Student Info
 
 - **Name:** Santhosh  
-- **Roll Number:** 23BCEXXXX  
+- **Roll Number:** 23BCE8943 
 - **College:** VIT-AP University  
 - **Course:** GenAI Lab – Final Project  
 - **GitHub Link:** [https://github.com/santhoshrampam/text-summarizer](https://github.com/santhoshrampam/text-summarizer)
